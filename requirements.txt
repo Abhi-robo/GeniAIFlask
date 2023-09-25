@@ -1,0 +1,9 @@
+flask
+python-dotenv
+openai
+langchain
+pypdf
+unstructured
+chromadb
+Flask-Cors
+azure-storage-blob
